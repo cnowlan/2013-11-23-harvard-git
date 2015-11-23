@@ -27,6 +27,7 @@ Make sure they have a new line
 1. item 2
 2. another item
 3. item 2 g
-  | 1. test this 
+  1. a bullet test
+  2. 
 
 
