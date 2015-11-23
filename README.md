@@ -22,7 +22,7 @@ Make sure they have a new line
 - bullet 1
 - bullet 2
 - bullet 3
-  | - bullet 4
+  - bullet 4
 
 1. item 2
 2. another item
