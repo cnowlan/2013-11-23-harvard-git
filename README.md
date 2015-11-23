@@ -7,3 +7,4 @@ another change!!
 This line tests a link www.cfa.harvard.edu so I can check it go committed on github.
 
 Here is a line to test version control:  this is my laptop
+This is my remote copy of the file. Let's test the verison control.
